@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(61, 159, 188);
+    width: 100%;
+    text-align: center;
+}
+
+section{
+    padding: 10px;
+    margin: 20px;
+}
+
+.note{
+    background-color: #e3e6f3;
+    border-radius: 5px;
+}
+
+h2{
+    background-color: rgb(61, 159, 188);
+    width: 100%;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(61, 159, 188);
+    width: 200px;
+    margin: auto;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: black;
+    border-radius: 4px;
+    border: none;
+    transition: 0.2s;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+}
